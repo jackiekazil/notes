@@ -75,6 +75,35 @@ Contraints:
 
 If there's a click, Blue Ligh pays: cents 8/0.10 = 80 cents
 
+### Candidate Ad Selection
 
+* All advertisers are indexed in Elastic Search in a geoquad.
+* Location and cateogry filters.
 
+### Auto Bidder
+* Sushi chef just wants to optimize: Sushi, etc.
+* Doesn't necessarily want to worry about ads.
+* Yelp says -- you tell us how much you want to spend per much, and we will give you the most we can give you.
 
+*Auto bidding system*
+![17099940285_f82e4b4de3_k](https://cloud.githubusercontent.com/assets/166734/7092100/0fa8e0ce-df7d-11e4-9504-0b7b1459cd38.jpg)
+
+![17099940285_f82e4b4de3_k](https://cloud.githubusercontent.com/assets/166734/7092154/6d0ab166-df7d-11e4-9a16-7c7ce5436f70.jpg)
+
+### CTR Prediction
+
+![16479814213_b84145ebb3_k](https://cloud.githubusercontent.com/assets/166734/7092167/8000b6b2-df7d-11e4-9ea3-cb7a05403b5b.jpg)
+
+![16912200088_a6d9f91212_k](https://cloud.githubusercontent.com/assets/166734/7092162/7bb86fd2-df7d-11e4-95b9-b877e14c8d7e.jpg)
+
+![16479821263_ac9f96a5ac_k](https://cloud.githubusercontent.com/assets/166734/7092166/7e385a4c-df7d-11e4-80b7-d0f0d8947b2a.jpg)
+
+## Model Train Sklearn, Vowpal Wabbit & Spark
+
+![16479855213_f2aefa0d61_k](https://cloud.githubusercontent.com/assets/166734/7092221/de4979ca-df7d-11e4-9dcf-431a89483f6c.jpg)
+
+## Vowpal Wabbit + mrJob on EMR
+
+![16913802669_fed2608db7_k](https://cloud.githubusercontent.com/assets/166734/7092219/dcf2e12e-df7d-11e4-88ee-43baf0a17919.jpg)
+
+(There is so much more to this talk, but I needed to step away. This talk should really be watched via video.)
