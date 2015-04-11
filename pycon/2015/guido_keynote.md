@@ -34,3 +34,5 @@ How do we get
 * Want at least two female core devs next year
 * First q. from a woman or girl, then alternate
 
+(My additions after this point...  )
+## Contribute to core python via [bugs](https://bugs.python.org/)
