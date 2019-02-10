@@ -3,6 +3,7 @@
 Speaker: Kenneth Reitz
 
 Link: https://www.pytennessee.org/talks/responder-a-familiar-web-service-framework
+Presentation: https://github.com/kennethreitz/talks/tree/master/archive/responder
 
 ## Python web history
 
@@ -36,4 +37,10 @@ A web framework that Reitz created
 * Include Requests as a standard HTTP client
 * Base the Request/Response obj very similr to Requests' own objects
 * Make "the world's best web framework"
+
+https://github.com/kennethreitz/responder
+
+The appeal of responder is the async component.
+
+This group of tools are asgi, not wsqi
 
